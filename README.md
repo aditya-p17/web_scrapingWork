@@ -58,6 +58,6 @@ Follow these steps to install and set up this project:
    ```
 This project requires the following Python packages:
 
-selenium
-pandas
+   i. selenium
+   ii. pandas
 
