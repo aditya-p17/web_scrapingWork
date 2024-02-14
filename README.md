@@ -1,4 +1,4 @@
-# Project Title
+# Scrape-It
 
 This project is a web scraping tool designed to extract data from websites using Selenium, a powerful tool for controlling web browsers through the program. It's built in Python 
 
