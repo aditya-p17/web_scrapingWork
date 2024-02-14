@@ -14,7 +14,7 @@ Follow these steps to install and set up this project:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    ```
-   2. Set up a virtual environment (optional)
+2. Set up a virtual environment (optional)
 
    It's recommended to set up a virtual environment to isolate the dependencies of this project. 
 
@@ -38,18 +38,18 @@ Follow these steps to install and set up this project:
 
    This will create a new virtual environment in a folder named `env` and activate it. While the virtual environment is activated, any packages you install with pip will be installed in the virtual environment, not globally.
 
-   3. Install the dependencies
+3. Install the dependencies
 
    After setting up and activating the virtual environment, you can install the required Python packages with pip by running:
 
    ```bash
    pip install -r requirements.txt
    ```
-   4. Download the WebDriver
+4. Download the WebDriver
 
    Selenium requires a driver to interface with the chosen browser.
 
-   5. Run the project
+5. Run the project
 
    After installing the dependencies and setting up the WebDriver, you can now run the project. Navigate to the directory containing your project's Python script in the terminal. Then, run the script with the Python command:
 
